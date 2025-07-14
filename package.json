@@ -1,0 +1,20 @@
+{
+  "name": "prodigy_fs_04",
+  "version": "1.0.0",
+  "description": "A modern, real-time chat application built with React, Node.js, Express, Socket.IO, and MongoDB. Features user authentication, real-time messaging, file uploads, and room-based chat functionality.",
+  "homepage": "https://github.com/SHIVAM03669/PRODIGY_FS_04#readme",
+  "bugs": {
+    "url": "https://github.com/SHIVAM03669/PRODIGY_FS_04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHIVAM03669/PRODIGY_FS_04.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
